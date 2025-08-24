@@ -1,0 +1,8 @@
+/.deps
+/.deploys
+/contracts/artifacts
+/contracts/ChainlinkAutomation_flattened.sol
+/contracts/ChainlinkCCIP_flattened.sol
+/contracts/ChainlinkDataFeeds_flattened.sol
+/contracts/ChainlinkFunctions_flattened.sol
+/contracts/ChainlinkVRF_flattened.sol
